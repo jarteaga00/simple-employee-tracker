@@ -1,0 +1,30 @@
+{
+  "name": "employee-database-manager-app-wk",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarteaga00/simple-employee-tracker"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarteaga00/simple-employee-tracker"
+  },
+  "homepage": "https://github.com/jarteaga00/simple-employee-tracker",
+  "dependencies": {
+    "asciiart-logo": "^0.2.7",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3",
+    "simple-banner": "^1.1.3"
+  }
+}
